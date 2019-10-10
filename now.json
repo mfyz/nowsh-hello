@@ -1,0 +1,6 @@
+{
+	"name": "now-test",
+	"routes": [
+		{ "src": "/about", "dest": "/about.html" }
+	]
+}
